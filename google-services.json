@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613567364313",
+    "firebase_url": "https://myguardian-613f2.firebaseio.com",
+    "project_id": "myguardian-613f2",
+    "storage_bucket": "myguardian-613f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613567364313:android:aebdde14dccbe6e51d92c8",
+        "android_client_info": {
+          "package_name": "com.example.myguardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613567364313-74ma3thvhken9ujp40vtg5b6ko03g8bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myguardian",
+            "certificate_hash": "e2b9c7711dc094e5011345a97d58ca31b5a2f212"
+          }
+        },
+        {
+          "client_id": "613567364313-gpn3g59fja37tcr2kmjb83i8u0pelaqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYdCquwkalQDXdKv3Ij46VWNThiRqC_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613567364313-gpn3g59fja37tcr2kmjb83i8u0pelaqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
